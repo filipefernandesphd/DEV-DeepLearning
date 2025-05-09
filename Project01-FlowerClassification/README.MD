@@ -23,4 +23,3 @@ Verificar se a flor **iris** é
 ## Fundamentação Teórica
 
 - [Redes Neurais Aritificiais (RNAs)](RedesNeurais.md)
-- [O Inverno da Inteligência Artifical](InvernoIA.md)
